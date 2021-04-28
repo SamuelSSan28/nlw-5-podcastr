@@ -17,12 +17,6 @@
 ![Podcastr preview](https://i.imgur.com/CDzDzgt.png)
 
 ## Tecnologies
-
-<div align="center">
-  <br />
- colocar ainda
-</div>
-
 This project was developed using cutting edge front-end technologies.
 
 
